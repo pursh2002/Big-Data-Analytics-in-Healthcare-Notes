@@ -1,0 +1,18 @@
+What versus Why: Data Science can be used to discover correlations (What phenomena occurred) but cannot be used to establish 
+causality (Why the phenomena occurred).
+
+Data Science involves discovering What – significant facts or patterns concerning phenomena. These are called correlations 
+amongst variables. Ideally, data science methods will help us identify highly probably (plausible) hypotheses (correlations) 
+that will be proven causal by other means. Data Science involves accelerated methods of discovering THAT correlations occur 
+under certain conditions and with certain probabilities; it cannot discover Why – whether the correlations between variables 
+are causal, i.e., explain why the observed correlations occurred. Once data science has been used to establish one or more 
+highly probable hypotheses (correlations), we put aside data science and turn to the conventional methods of the domain in 
+question to establish causality or Why the observed phenomena occurred.
+
+Single Version of Truth: Banks must maintain a single version of truth for your bank account, not multiple versions, since you 
+want the bank to make sure that every euro you put in is credited to you and every euro taken out is credited to the person you 
+are paying. “One version of truth” applies to most businesses that want a persistent, reliable record of all business 
+transactions. Databases were first developed for banking and business; hence they claim to support a single version of truth. 
+While this is critical for some problems, e.g., business transactions, it is not true for most of the rest of the world. Hence, 
+database products do not support multiple models, i.e., the reality of science and life in general. For over 40 years, 
+researchers have tried but failed to develop databases that support multiple perspectives or multiple semantic models.
