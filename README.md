@@ -57,8 +57,16 @@ and a lot of false alarms.
 ### Healthcare Applications
 
 Three types ....
-* Predective Modeling -- to predict future outcome e.g epilepsy 
+* Predective Modeling -- to predict future outcome e.g epilepsy - (will help in matching patient to right treatment) 
 * Computational Phenotyping -- turning massive EHR to meaning full health concepts 
 * Patient Similarity --- to identify group of patients based on similar characteristics  
+
+
+#### Predective Modeling
+Why difficult ? We have millions of patients we want to analyze and their diagnosis information, medication information, and so on. So all those data combined together, create a big challenge. The second challenge in predictive modeling is there are so
+many models to be built. Predictive model is not a single algorithm, it's a sequence of computational tasks. Which can be described as Predective modelling pipline. 100000 different piplines can be developed.
+
+start --- cohort construction --- feature construction --- cross validation --- feature selection -- classification -- output
+
 
 
