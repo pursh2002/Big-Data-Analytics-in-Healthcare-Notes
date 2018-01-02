@@ -69,4 +69,22 @@ many models to be built. Predictive model is not a single algorithm, it's a sequ
 start --- cohort construction --- feature construction --- cross validation --- feature selection -- classification -- output
 
 
+#### Computational Phenotyping
+
+The input to Computational Phenotyping is the raw patient data. It consist of many different sources, such as demographic information, diagnosis, medication, procedure, lab tests, and clinical notes. And phenotyping is the process of turning the raw
+patient data into medical concepts or phenotypes.
+
+Raw Data ---- phenotypying ---- to Medical Concepts 
+
+to extract phenotypes we deal with missig data , redudency , duplication , irrevelent data e.g For example, post diagnosis and
+medication records from a patient indicate underlying condition of type 2 diabetes. So we want to consolidate those redundant informatio
+
+EHR ---type 1 diebeties diagnosis  --- No ----- Type 2 dibeties diagnosis ---- no type 2 treatment --- yes abnormal lab ---- case 
+
+type 2 diagnosis yes --- type 1 treatment no --- type 2 treatment no ---- abnormal lab ----  yes type 2 dibeties 
+
+why complex algorithim ? The reason is because electronic health record data is very unreliable.
+There are missing data, redundant information, so sometimes for Type 2 diabetes patients, the diagnosis is not present in the record. So we still have other ways to check whether they are a Type 2 diabetes patient, for example, their medication, lab test.
+
+#### Patient Similarity 
 
