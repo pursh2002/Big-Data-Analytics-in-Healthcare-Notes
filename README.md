@@ -9,7 +9,6 @@
 * to build models on health care data,example, models for individual disease risk prediction, recommending treatments,
 * cluster patient into groups with common characteristics, and find similar patients.
 
-
 ## Problem 
 * Healthcare industry is huge. There are a lot of data coming out of healthcare.
 * High waste and low quality > 750 billion
@@ -19,6 +18,9 @@
 
 Most health systems can do plenty today without big data, including meeting most of their analytics and reporting needs.
 “air and water” right now (regulatory reporting and operational dashboards), once basic needs are met and some of the initial advanced applications are in place, new use cases can be identifyed in ares of big data
+
+## Barriers
+technical expertise, security, funding, governance and policy 
 
 ## Big data concepts 
 
