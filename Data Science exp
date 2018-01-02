@@ -1,5 +1,5 @@
 What versus Why: Data Science can be used to discover correlations (What phenomena occurred) but cannot be used to establish 
-causality (Why the phenomena occurred).
+causality (Why the phenomena occurred).[https://www.kdnuggets.com/2018/01/understanding-truth-data-science.html
 
 Data Science involves discovering What – significant facts or patterns concerning phenomena. These are called correlations 
 amongst variables. Ideally, data science methods will help us identify highly probably (plausible) hypotheses (correlations) 
