@@ -17,10 +17,10 @@
 ## Health Systems Without Big Data
 
 Most health systems can do plenty today without big data, including meeting most of their analytics and reporting needs.
-“air and water” right now (regulatory reporting and operational dashboards), once basic needs are met and some of the initial advanced applications are in place, new use cases can be identifyed in ares of big data
+“air and water” right now (regulatory reporting and operational dashboards), once basic needs are met and some of the initial advanced applications are in place, new use cases can be identifyed in ares of big data. 
 
 ## Barriers
-* technical expertise(most organizations need data scientists/data engineers to manipulate and get data out of a big data environment), curruntly only limited to research because of complexity 
+* Technical expertise(most organizations need data scientists/data engineers to manipulate and get data out of a big data environment), curruntly only limited to research because of complexity 
 
 * Security : In healthcare, HIPAA compliance is non-negotiable. Nothing is more important than the privacy and security of patient data. 
 
@@ -29,6 +29,9 @@ Most health systems can do plenty today without big data, including meeting most
 * Governance and Policy 
 
 ## Big data concepts 
+
+### Big Data Has Minimal Structure
+Compared to classical relation data bases, where data is stored in schema and linked to different identifiers.Here data has hardly any structure at all. Data is extracted from source systems in its raw form stored in a massive distributed file system.
 
 ### four Vs
 
@@ -50,3 +53,12 @@ and a lot of false alarms.
 * Big data systems
 * Machine learning Algorithims
 * Healthcare Applications
+
+### Healthcare Applications
+
+Three types ....
+* Predective Modeling -- to predict future outcome e.g epilepsy 
+* Computational Phenotyping -- turning massive EHR to meaning full health concepts 
+* Patient Similarity --- to identify group of patients based on similar characteristics  
+
+
