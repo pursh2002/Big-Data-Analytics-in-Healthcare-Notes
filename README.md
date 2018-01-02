@@ -15,6 +15,11 @@
 * High waste and low quality > 750 billion
 * errors and Preventable deaths > 40000
 
+## Health Systems Without Big Data
+
+Most health systems can do plenty today without big data, including meeting most of their analytics and reporting needs.
+“air and water” right now (regulatory reporting and operational dashboards), once basic needs are met and some of the initial advanced applications are in place, new use cases can be identifyed in ares of big data
+
 ## Big data concepts 
 
 ### four Vs
@@ -32,3 +37,8 @@ and a lot of false alarms.
 
 * velocity - real time data
 
+## Big Data Picture
+
+* Big data systems
+* Machine learning Algorithims
+* Healthcare Applications
