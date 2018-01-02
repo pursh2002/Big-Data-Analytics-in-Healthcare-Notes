@@ -20,7 +20,13 @@ Most health systems can do plenty today without big data, including meeting most
 “air and water” right now (regulatory reporting and operational dashboards), once basic needs are met and some of the initial advanced applications are in place, new use cases can be identifyed in ares of big data
 
 ## Barriers
-technical expertise, security, funding, governance and policy 
+* technical expertise(most organizations need data scientists/data engineers to manipulate and get data out of a big data environment), curruntly only limited to research because of complexity 
+
+* Security : In healthcare, HIPAA compliance is non-negotiable. Nothing is more important than the privacy and security of patient data. 
+
+* Funding 
+
+* Governance and Policy 
 
 ## Big data concepts 
 
