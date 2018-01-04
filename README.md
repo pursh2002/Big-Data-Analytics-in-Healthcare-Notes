@@ -12,7 +12,7 @@
 ## Problem 
 * Healthcare industry is huge. There are a lot of data coming out of healthcare.
 * High waste and low quality > 750 billion
-* errors and Preventable deaths > 40000
+* errors and Preventable deaths > 400000
 
 ## Health Systems Without Big Data
 
