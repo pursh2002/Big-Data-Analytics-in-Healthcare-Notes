@@ -31,3 +31,14 @@ Self-study:
 
 What do you think? Questions?
 --eric--
+
+Data science applied to industry aims to improve two major areas: 
+1. Optimization 2. Automation. 
+
+Optimization methods lean into the areas of mathematics, economics, statistics, neuroscience or other disciplines that may surprise you. 
+
+Automation requires a solid understanding of APIs, databases, and programming languages like Python and R. 
+
+In a given month or even week, I can be expected to help on a diverse range of projects that touch on both! Do I always know everything I need to know before starting a project? Heck no! 
+
+That's why a great data scientist is a great researcher (Google!) and an infinite learner! :) 
