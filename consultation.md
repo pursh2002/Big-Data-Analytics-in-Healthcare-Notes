@@ -1,3 +1,8 @@
+Why companies fail in adopting AI?
+Companies who are eager to adopt AI:
+Think of Artificial Intelligence as the top of a pyramid of needs. Yes, self-actualization (AI) is great, but you first need food, water, and shelter (data literacy, collection, and infrastructure)--Monica Rogati’s
+
+
 Most companies I come across aren't ready to use machine learning.  (sometimes not even close)
 
 Here's a checklist that's a starting point;  
